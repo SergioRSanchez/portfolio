@@ -293,11 +293,7 @@ img {
 }
 
 
-@media (max-width: 720px) {
-
-  /* .container {
-    max-width: 100%;
-  } */
+/* @media (max-width: 720px) {
 
   .header a {
     font-size: 1rem;
@@ -339,4 +335,4 @@ img {
     text-align: justify;
   }
 
-}
+} */
