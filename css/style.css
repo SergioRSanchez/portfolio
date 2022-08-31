@@ -295,6 +295,23 @@ img {
 
 @media (max-width: 720px) {
 
+  /* .container {
+    max-width: 100%;
+  } */
+
+  .header a {
+    font-size: 1rem;
+  }
+
+  .header {
+    gap: 1.5rem;
+  }
+
+  .home-container {
+    display: flex;
+    flex-direction: column;
+  }
+
   .project-list {
     display: flex;
     flex-direction: column;
